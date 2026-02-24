@@ -44,7 +44,7 @@ Contact: `jerry.tong@connect.polyu.hk`
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-<span class="pub-badge pub-badge--imwut">IMWUT'25</span> **Everytime Everywhere All at Once: Enhancing Temporal-Spatial Traceability of Optical Codes through Voltmarks**  
+<span class="pub-badge pub-badge--imwut">IMWUT'25</span> Everytime Everywhere All at Once: Enhancing Temporal-Spatial Traceability of Optical Codes through Voltmarks  
 <span class="author-me">Jingyu Tong</span>, Donghui Dai, Zheng Gong, Lei Yang  
 In Proc. of ACM IMWUT/UbiComp, 2025. <span class="ccf-level">(CCF-A Conference)</span>
 </div>
@@ -57,7 +57,7 @@ In Proc. of ACM IMWUT/UbiComp, 2025. <span class="ccf-level">(CCF-A Conference)<
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-<span class="pub-badge pub-badge--infocom">INFOCOM'25</span> **Commercial RFIDs as Reconfigurable Intelligent Surfaces**  
+<span class="pub-badge pub-badge--infocom">INFOCOM'25</span> Commercial RFIDs as Reconfigurable Intelligent Surfaces  
 <span class="author-me">Jingyu Tong</span>, Xiaopeng Zhao, Zhicheng Wang, Donghui Dai, Zhenlin An, Lei Yang  
 In Proc. of IEEE INFOCOM, London, United Kingdom, May 19-22, 2025. <span class="ccf-level">(CCF-A Conference)</span>
 </div>
@@ -70,36 +70,36 @@ In Proc. of IEEE INFOCOM, London, United Kingdom, May 19-22, 2025. <span class="
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-<span class="pub-badge pub-badge--mobihoc">MobiHoc'24</span> **In-Sensor Machine Learning: Radio Frequency Neural Networks for Wireless Sensing**  
+<span class="pub-badge pub-badge--mobihoc">MobiHoc'24</span> In-Sensor Machine Learning: Radio Frequency Neural Networks for Wireless Sensing  
 <span class="author-me">Jingyu Tong</span>, Zhenlin An, Xiaopeng Zhao, Sicong Liao, Lei Yang  
 In Proc. of ACM MobiHoc, Athens, Greece, Oct 14-17, 2024. <span class="ccf-level">(CCF-B Conference)</span>
 </div>
 </div>
 
-- <span class="pub-badge pub-badge--mobicom">MobiCom'24</span> **Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas**  
+- <span class="pub-badge pub-badge--mobicom">MobiCom'24</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas  
   Zheng Gong, Zhenlin An, Donghui Dai, <span class="author-me">Jingyu Tong</span>, Shuijie Long, Lei Yang  
   In Proc. of ACM MobiCom, Washington DC, USA, Nov 17-21, 2024. <span class="ccf-level">(CCF-A Conference)</span>
-- <span class="pub-badge pub-badge--sensys">SenSys'23</span> **XiTuXi: Sealing the Gaps in Cross-Technology Communication by Neural Machine Translation**  
+- <span class="pub-badge pub-badge--sensys">SenSys'23</span> XiTuXi: Sealing the Gaps in Cross-Technology Communication by Neural Machine Translation  
   Sicong Liao, Zhenlin An, Qingrui Pan, Xiaopeng Zhao, <span class="author-me">Jingyu Tong</span>, Lei Yang  
   In Proc. of ACM SenSys, Istanbul, Turkiye, Nov 13-15, 2023. <span class="ccf-level">(CCF-B Conference)</span>
-- <span class="pub-badge pub-badge--tvt">TVT'20</span> **Device-Free Multi-Person Respiration Monitoring Using WiFi**  
+- <span class="pub-badge pub-badge--tvt">TVT'20</span> Device-Free Multi-Person Respiration Monitoring Using WiFi  
   Qinghua Gao, <span class="author-me">Jingyu Tong</span>, Jie Wang, Zhouhua Ran, Miao Pan  
   In IEEE Transactions on Vehicular Technology, 2020. 
-- <span class="pub-badge pub-badge--tvt">TVT'19</span> **A Dynamic Differential Phase Analysis Method for Wireless Sensing**  
+- <span class="pub-badge pub-badge--tvt">TVT'19</span> A Dynamic Differential Phase Analysis Method for Wireless Sensing  
   Jie Wang, <span class="author-me">Jingyu Tong</span>, Xinxin Fan, Xiaorui Ma, Qinghua Gao  
   In IEEE Transactions on Vehicular Technology, 2019. 
-- <span class="pub-badge pub-badge--tvt">TVT'18</span> **Device-Free Vehicle Speed Estimation with WiFi**  
+- <span class="pub-badge pub-badge--tvt">TVT'18</span> Device-Free Vehicle Speed Estimation with WiFi  
   Jie Wang, <span class="author-me">Jingyu Tong</span>, Qinghua Gao, Zhenyu Wu, Sheng Bi, Hongyu Wang  
   In IEEE Transactions on Vehicular Technology, 2018. 
 
 ## Demo and Poster Articles
-- <span class="pub-badge pub-badge--poster">MobiSys'24 Poster</span> **Poster: A One-size-fits-all Solution for Cross-Technology Communication via Transformer**  
+- <span class="pub-badge pub-badge--poster">MobiSys'24 Poster</span> Poster: A One-size-fits-all Solution for Cross-Technology Communication via Transformer  
   Sicong Liao, <span class="author-me">Jingyu Tong</span>, Zhimin Mei, Donghui Dai, Yuanhao Feng, Qiongzheng Lin, Lei Yang  
   In Proc. of ACM MobiSys, Tokyo, Japan, June 03-07, 2024. <span class="ccf-level">(CCF-B Conference)</span>
-- <span class="pub-badge pub-badge--mobicom">MobiCom'23 Demo</span> **Radio Frequency Neural Networks for Wireless Sensing**  
+- <span class="pub-badge pub-badge--mobicom">MobiCom'23 Demo</span> Radio Frequency Neural Networks for Wireless Sensing  
   <span class="author-me">Jingyu Tong</span>, Zhenlin An, Xiaopeng Zhao, Sicong Liao, Lei Yang  
   In Proc. of ACM MobiCom, Madrid, Spain, Oct 2-6, 2023. <span class="ccf-level">(CCF-A Conference, Best Graduate Award)</span>
-- <span class="pub-badge pub-badge--mobicom">MobiCom'22 Demo</span> **Demo: Constructing Smart Buildings with In-concrete Backscatter Networks**  
+- <span class="pub-badge pub-badge--mobicom">MobiCom'22 Demo</span> Demo: Constructing Smart Buildings with In-concrete Backscatter Networks  
   Zheng Gong, Zhenlin An, <span class="author-me">Jingyu Tong</span>, Donghui Dai, Lei Yang  
   In Proc. of ACM MobiCom, Sydney, Australia, Oct 17-22, 2022. <span class="ccf-level">(CCF-A Conference, Best Demo Award Runner-up)</span>
 
