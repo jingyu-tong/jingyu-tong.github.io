@@ -40,7 +40,7 @@ Contact: `jerry.tong@connect.polyu.hk`
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<img src='images/papers/imwut25.png' alt='IMWUT 2025 paper figure' width="100%">
+<img src='images/papers/imwut25.jpg' alt='IMWUT 2025 paper figure' width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -53,7 +53,7 @@ In Proc. of ACM IMWUT/UbiComp, 2025. <span class="ccf-level">(CCF-A Conference)<
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<img src='images/papers/infocom25.png' alt='INFOCOM 2025 paper figure' width="100%">
+<img src='images/papers/infocom25.jpg' alt='INFOCOM 2025 paper figure' width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -66,7 +66,7 @@ In Proc. of IEEE INFOCOM, London, United Kingdom, May 19-22, 2025. <span class="
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<img src='images/papers/mobihoc24.png' alt='MobiHoc 2024 paper figure' width="100%">
+<img src='images/papers/mobihoc24.jpg' alt='MobiHoc 2024 paper figure' width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
