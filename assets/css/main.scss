@@ -52,13 +52,22 @@
 
     .paper-box-image{
         justify-content: center;
+        align-items: center;
         display: flex;
         width: 100%;
         order: 2;
+        > div {
+            position: relative;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
         img {
-            max-width: 400px;
+            max-width: 100%;
+            height: 180px;
+            width: auto;
             box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            object-fit: contain;
         }
     }
     
@@ -69,16 +78,16 @@
     
     @include breakpoint($medium) {
         .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            justify-content: center;
+            min-width: 240px;
+            max-width: 38%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            padding-left: 1.1em;
+            max-width: 62%;
             order: 2;
         }
 
@@ -106,4 +115,39 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.pub-badge {
+    display: inline-block;
+    margin-right: 0.55rem;
+    padding: 0.18rem 0.55rem;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 0.72em;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    vertical-align: baseline;
+    white-space: nowrap;
+    background-color: #2b3447;
+}
+
+.pub-badge--imwut { background-color: #2f3b52; }
+.pub-badge--infocom { background-color: #235f86; }
+.pub-badge--mobihoc { background-color: #2f7a64; }
+.pub-badge--mobicom { background-color: #7a4b22; }
+.pub-badge--sensys { background-color: #5a3f7a; }
+.pub-badge--tvt { background-color: #4b5567; }
+.pub-badge--poster { background-color: #35506f; }
+
+.ccf-level {
+    color: #c81e1e;
+    font-weight: 600;
+}
+
+.author-me {
+    font-weight: 700;
+    text-decoration: none;
+    border-bottom: 1.5px solid currentColor;
+    padding-bottom: 1px;
 }
