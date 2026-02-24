@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a researcher at the 6G Research Center, China Telecom Research Institute. I received my Ph.D. in Computer Science from <a href="https://www.polyu.edu.hk/en/" target="_blank" rel="noopener" style="color:#1a73e8;">The Hong Kong Polytechnic University</a> in June 2025, supervised by <a href="https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/abou" target="_blank" rel="noopener" style="color:#1a73e8;">Prof. Lei Yang</a>.
+Hi! I am Jingyu Tong, a researcher at the 6G Research Center, China Telecom Research Institute. I received my Ph.D. in Computer Science from <a href="https://www.polyu.edu.hk/en/" target="_blank" rel="noopener" style="color:#1a73e8;">The Hong Kong Polytechnic University</a> in June 2025, supervised by <a href="https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/abou" target="_blank" rel="noopener" style="color:#1a73e8;">Prof. Lei Yang</a>.
 
 My current research focuses on distributed network architectures and systems for 6G. Before and during my Ph.D., I worked on wireless sensing, reconfigurable intelligent surfaces, and physical neural networks. My work has been published in ACM/IEEE venues including UbiComp, INFOCOM, MobiHoc, MobiCom, and SenSys. 
 
