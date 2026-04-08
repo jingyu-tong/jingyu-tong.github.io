@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Jingyu Tong, a researcher at the 6G Research Center, China Telecom Research Institute. I received my Ph.D. in Computer Science from <a href="https://www.polyu.edu.hk/en/" target="_blank" rel="noopener" style="color:#1a73e8;">The Hong Kong Polytechnic University</a> in June 2025, supervised by <a href="https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/abou" target="_blank" rel="noopener" style="color:#1a73e8;">Prof. Lei Yang</a>.
+Hi! I am Jingyu Tong, a researcher at the 6G Research Center, China Telecom Research Institute. I received my Ph.D. in Computer Science from <a href="https://www.polyu.edu.hk/en/" target="_blank" rel="noopener" style="color:#1a73e8;">The Hong Kong Polytechnic University</a> in June 2025, supervised by <a href="https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/abou" target="_blank" rel="noopener" style="color:#1a73e8;">Prof. Lei Yang</a>. I received my M.Sc. in Information and Communication Engineering and B.Eng. in Communication Engineering from <a href="https://www.dlut.edu.cn/" target="_blank" rel="noopener" style="color:#1a73e8;">Dalian University of Technology</a>, supervised by <a href="https://ist.dlmu.edu.cn/info/1287/6728.htm" target="_blank" rel="noopener" style="color:#1a73e8;">Prof. Jie Wang</a>.
 
 My current research focuses on distributed network architectures and systems for 6G. Before and during my Ph.D., I worked on wireless sensing, reconfigurable intelligent surfaces, and physical neural networks. My work has been published in ACM/IEEE venues including UbiComp, INFOCOM, MobiHoc, MobiCom, and SenSys. 
 
@@ -35,6 +35,7 @@ Contact: `jerry.tong@connect.polyu.hk`
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
+<span style="font-size: 0.95em;">* corresponding author.</span>
 
 ## Conference Papers
 <div class='paper-box'>
@@ -93,14 +94,20 @@ In Proc. of ACM MobiHoc, Athens, Greece, Oct 14-17, 2024. <span class="ccf-level
   In Proc. of ACM MobiCom, Sydney, Australia, Oct 17-22, 2022. <span class="ccf-level">(CCF-A Conference, Best Demo Award Runner-up)</span>
 
 ## Journal Papers
+- <span class="pub-badge pub-badge--iotj">IoTJ'26</span> ARGUS: Cross-Antenna Channel Estimation and Intelligent Antenna Selection for Massive MIMO  
+  Qibai Chen, Jianbo Hou, Haobo Gao, <span class="author-me">Jingyu Tong</span><sup>*</sup>, Zheng Gong<sup>*</sup>, Sheng Chen, Xinyu Tong, Xin Xie, Xiulong Liu, Keqiu Li  
+  In IEEE Internet of Things Journal, 2026.
+- <span class="pub-badge pub-badge--tmc">TMC'26</span> Toward Scalable Reconfigurable Intelligent Surfaces Using Commercial RFIDs  
+  <span class="author-me">Jingyu Tong</span>, Xiaopeng Zhao, Zhicheng Wang, Donghui Dai, Zheng Gong, Zhenlin An, Lei Yang  
+  In IEEE Transactions on Mobile Computing, 2026. <span class="ccf-level">(CCF-A Journal)</span>
 - <span class="pub-badge pub-badge--tvt">TVT'20</span> Device-Free Multi-Person Respiration Monitoring Using WiFi  
-  Qinghua Gao, <span class="author-me">Jingyu Tong</span>, Jie Wang, Zhouhua Ran, Miao Pan  
+  Qinghua Gao (Supervisor), <span class="author-me">Jingyu Tong</span>, Jie Wang, Zhouhua Ran, Miao Pan  
   In IEEE Transactions on Vehicular Technology, 2020.
 - <span class="pub-badge pub-badge--tvt">TVT'19</span> A Dynamic Differential Phase Analysis Method for Wireless Sensing  
-  Jie Wang, <span class="author-me">Jingyu Tong</span>, Xinxin Fan, Xiaorui Ma, Qinghua Gao  
+  Jie Wang (Supervisor), <span class="author-me">Jingyu Tong</span>, Xinxin Fan, Xiaorui Ma, Qinghua Gao  
   In IEEE Transactions on Vehicular Technology, 2019.
 - <span class="pub-badge pub-badge--tvt">TVT'18</span> Device-Free Vehicle Speed Estimation with WiFi  
-  Jie Wang, <span class="author-me">Jingyu Tong</span>, Qinghua Gao, Zhenyu Wu, Sheng Bi, Hongyu Wang  
+  Jie Wang (Supervisor), <span class="author-me">Jingyu Tong</span>, Qinghua Gao, Zhenyu Wu, Sheng Bi, Hongyu Wang  
   In IEEE Transactions on Vehicular Technology, 2018.
 
 <span class='anchor' id='awards'></span>
@@ -119,14 +126,17 @@ In Proc. of ACM MobiHoc, Athens, Greece, Oct 14-17, 2024. <span class="ccf-level
 <span class='anchor' id='education'></span>
 
 # 🎓 Education
-- *2022.01 - 2025.06*, Ph.D. in Computer Science, The Hong Kong Polytechnic University, Hong Kong, China. Supervisor: <a href="https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/abou" target="_blank" rel="noopener" style="color:#1a73e8;">Prof. Lei Yang</a>.
-- *2018.09 - 2021.06*, M.Sc. in Information and Communication Engineering, Dalian University of Technology, Dalian, China. Supervisor: <a href="https://ist.dlmu.edu.cn/info/1287/6728.htm" target="_blank" rel="noopener" style="color:#1a73e8;">Prof. Jie Wang</a>.
-- *2014.09 - 2018.06*, B.Eng. in Communication Engineering, Dalian University of Technology, Dalian, China.
+- *2022.01 - 2025.06*, Ph.D. in Computer Science  
+  <a href="https://www.polyu.edu.hk/en/" target="_blank" rel="noopener" style="color:#1a73e8;">The Hong Kong Polytechnic University</a>, Hong Kong, China. Supervisor: <a href="https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/abou" target="_blank" rel="noopener" style="color:#1a73e8;">Prof. Lei Yang</a>.
+- *2018.09 - 2021.06*, M.Sc. in Information and Communication Engineering  
+  <a href="https://www.dlut.edu.cn/" target="_blank" rel="noopener" style="color:#1a73e8;">Dalian University of Technology</a>, Dalian, China. Supervisor: <a href="https://ist.dlmu.edu.cn/info/1287/6728.htm" target="_blank" rel="noopener" style="color:#1a73e8;">Prof. Jie Wang</a>.
+- *2014.09 - 2018.06*, B.Eng. in Communication Engineering  
+  <a href="https://www.dlut.edu.cn/" target="_blank" rel="noopener" style="color:#1a73e8;">Dalian University of Technology</a>, Dalian, China. Supervisor: <a href="https://ist.dlmu.edu.cn/info/1287/6728.htm" target="_blank" rel="noopener" style="color:#1a73e8;">Prof. Jie Wang</a>.
 
 <span class='anchor' id='services'></span>
 
 # 🤝 Services
-- Reviewer: ACM IMWUT'26, IEEE JRFID, IEEE IoTJ, EAI MobiQuitous, 2022-2024, IEEE TVT
+- Reviewer: ACM IMWUT'26, GLOBECOM'25, IEEE JRFID, IEEE IoTJ, EAI MobiQuitous, 2022-2024, IEEE TVT
 
 <span class='anchor' id='teaching'></span>
 
