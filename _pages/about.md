@@ -41,6 +41,19 @@ Contact: `jerry.tong@connect.polyu.hk`
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<img src='images/papers/globecom26.png' alt='GLOBECOM 2026 paper figure' width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+<span class="pub-badge pub-badge--globecom">GLOBECOM'26</span> A Potential Game-Based Two-Stage Framework for Service Discovery in 6G Distributed Networks  
+Yuhan Zhang, <span class="author-me">Jingyu Tong</span><sup>*</sup>, Yilin Lin  
+In Proc. of IEEE GLOBECOM, 2026. <span class="ccf-level">(CCF-C Conference)</span>
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <img src='images/papers/imwut25.jpg' alt='IMWUT 2025 paper figure' width="100%">
 </div>
 </div>
@@ -94,6 +107,9 @@ In Proc. of ACM MobiHoc, Athens, Greece, Oct 14-17, 2024. <span class="ccf-level
   In Proc. of ACM MobiCom, Sydney, Australia, Oct 17-22, 2022. <span class="ccf-level">(CCF-A Conference, Best Demo Award Runner-up)</span>
 
 ## Journal Papers
+- <span class="pub-badge pub-badge--tmc">TMC'26</span> Bridging the Gap in Cross-Medium Networks With Mechanical Antennas  
+  Zheng Gong, Zhenlin An, Donghui Dai, <span class="author-me">Jingyu Tong</span><sup>*</sup>, Shuijie Long, Xin Xie, Xiulong Liu, Lei Yang<sup>*</sup>, Bin Xiao, Haipeng Yao, Keqiu Li  
+  In IEEE Transactions on Mobile Computing, 2026. <span class="ccf-level">(CCF-A Journal)</span>
 - <span class="pub-badge pub-badge--iotj">IoTJ'26</span> ARGUS: Cross-Antenna Channel Estimation and Intelligent Antenna Selection for Massive MIMO  
   Qibai Chen, Jianbo Hou, Haobo Gao, <span class="author-me">Jingyu Tong</span><sup>*</sup>, Zheng Gong<sup>*</sup>, Sheng Chen, Xinyu Tong, Xin Xie, Xiulong Liu, Keqiu Li  
   In IEEE Internet of Things Journal, 2026.
